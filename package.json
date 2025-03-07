@@ -1,0 +1,22 @@
+{
+  "name": "express-project",
+  "version": "1.0.0",
+  "description": "express project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RitaSahakyan/Express-project.git"
+  },
+  "author": "Rita Sahakyan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RitaSahakyan/Express-project/issues"
+  },
+  "homepage": "https://github.com/RitaSahakyan/Express-project#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
